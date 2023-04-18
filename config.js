@@ -51,7 +51,7 @@ var config = {
         },
         {
             id: '1 Cultura Lima',
-            alignment: 'right',
+            alignment: 'center',
             hidden: false,
             title: 'Cultura Lima',
             image: 'https://cdn-images-1.medium.com/max/1200/1*h_WzM4YsmoDHtEsC4A8VFA.png',
@@ -85,7 +85,7 @@ var config = {
 
         {
             id: '2 Componente distrital',
-            alignment: 'left',
+            alignment: 'center',
             hidden: false,
             title: 'Componente Distrital',
             image: 'https://cdn-images-1.medium.com/max/1200/1*JP7JdY3tY80RawPqQBRf6A.png',
@@ -181,7 +181,7 @@ bearing: -30.00
        
         {
             id: 'NDVI    1985',
-            alignment: 'right',
+            alignment: 'center',
             hidden: false,
             title: 'NDVI 1985',
             image: 'https://cdn-images-1.medium.com/max/1800/1*ShPGOD1xVMm28UoEEXAiWw.jpeg',
@@ -212,7 +212,7 @@ bearing: -30.00
         },
         {
             id: ' NDVI    2021',
-            alignment: 'left',
+            alignment: 'center',
             hidden: false,
             title: 'NDVI 2021',
             image: 'https://cdn-images-1.medium.com/max/1800/1*EePBu2jKulsDpOncIdXXHQ.jpeg',
@@ -278,7 +278,7 @@ bearing: -30.00
         
         {
             id: 'MNDWI 1985',
-            alignment: 'right',
+            alignment: 'center',
             hidden: false,
             title: 'MNDWI 1985',
             image: 'https://cdn-images-1.medium.com/max/400/1*in8zgyV9r2AeQUvaRxJ4Xg.jpeg',
@@ -313,7 +313,7 @@ bearing: -40.00
 
         {
             id: 'MNDWI 2021',
-            alignment: 'left',
+            alignment: 'center',
             hidden: false,
             title: 'MNDWI 2021',
             image: 'https://cdn-images-1.medium.com/max/400/1*MDyogKYLVFLo4r-f9mEeXg.jpeg',
@@ -367,7 +367,7 @@ bearing: -40.00
        
         {
             id: 'NDBI 1985',
-            alignment: 'right',
+            alignment: 'center',
             hidden: false,
             title: 'NDBI - 1985',
             image: 'https://cdn-images-1.medium.com/max/1200/1*qEa5B7YotK_U90OGUZ2U7w.jpeg',
@@ -398,7 +398,7 @@ bearing: -30.00
         },
         {
             id: 'NDBI 2021',
-            alignment: 'left',
+            alignment: 'center',
             hidden: false,
             title: 'NDBI 2021',
             image: 'https://cdn-images-1.medium.com/max/1200/1*3BGhBLeRYJgCMwso6sBX6g.jpeg',
@@ -544,7 +544,7 @@ bearing: -30.00
         },
         {
             id: 'pie ICAU 1985',
-            alignment: 'right',
+            alignment: 'center',
             hidden: false,
             title: 'GRÁFICO DETERMINACIÓN DE ICAU 1985',
             image: 'https://cdn-images-1.medium.com/max/800/1*MFYik91u4QiXTYuGp4zaSA.png',
@@ -749,7 +749,7 @@ bearing: -30.00
         },
         {
             id: 'Lima Este',
-            alignment: 'right',
+            alignment: 'center',
             hidden: false,
             title: '',
             image: 'https://noticias-pe.laiglesiadejesucristo.org/media/960x540/SJ-Lurigancho-1.jpg',
@@ -780,7 +780,7 @@ bearing: -30.00
         },
         {
             id: 'Lima Norte',
-            alignment: 'left',
+            alignment: 'center',
             hidden: false,
             title: '',
             image: 'https://www.elperuano.pe/fotografia/thumbnail/2022/12/22/000228010M.jpg',
@@ -814,7 +814,7 @@ bearing: -40.00
         },
         {
             id: 'Lima Oeste',
-            alignment: 'right',
+            alignment: 'center',
             hidden: false,
             title: ' ',
             image: 'https://portalportuario.cl/wp-content/uploads/2020/01/nave-APL-en-dp-world-callao-peru-400x300.png',
@@ -846,7 +846,7 @@ bearing: -40.00
         },
         {
             id: 'Lima Sur',
-            alignment: 'left',
+            alignment: 'center',
             hidden: false,
             title: '',
             image: 'https://viajerosocultos.com/wp-content/uploads/2023/01/beautiful-pacific-ocean-coast-in-lima-miraflores-area-in-lima-city-peru-1.jpg',
