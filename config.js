@@ -5,7 +5,7 @@ var config = {
     markerColor: '#3FB1CE',
     theme: 'dark',
     use3dTerrain: true,
-    title: 'BAJO RIMAC',
+    title: 'BAJO RIMAC 1985 - 2021',
     subtitle: 'Detección de Cambios e Indice de Calidad Ambiental Urbano',
     byline: 'Miryam Laureano ',
     footer: 'Source: Universidad Politécnica de Catalunya',
@@ -450,7 +450,7 @@ bearing: -30.00
             id: 'ICAU ',
             alignment: 'CENTER',
             hidden: false,
-            title: ' ÍNDICE DE CALIDAD AMBIENTAL URBANO PERIODO 1985 - 2021',
+            title: ' ÍNDICE DE CALIDAD AMBIENTAL URBANO MEDIANTE TELEDETECCIÓN PERIODO 1985 - 2021',
             image: '',
            
             description: '',
@@ -717,10 +717,10 @@ bearing: -30.00
 
 
         {
-            id: 'lIMA CENTRO',
+            id: 'LIMA CENTRO',
             alignment: 'center', 
             hidden: false,
-            title: ' Centro de Lima',
+            title: ' ',
             image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd8yjyVD_6Kri7zwgpEiiH1EN0NPlrJu4zSQ&usqp=CAU',
             description: '-	Los cálculos se han realizado en función a la media de los datos por pixel, los resultados son una estimación.',
             location: {
@@ -751,7 +751,7 @@ bearing: -30.00
             id: 'Lima Este',
             alignment: 'right',
             hidden: false,
-            title: 'San Juan de Lurigancho - El Agustino - San Luis',
+            title: '',
             image: 'https://noticias-pe.laiglesiadejesucristo.org/media/960x540/SJ-Lurigancho-1.jpg',
             description: '-	La calificación de “Bueno” la poseen 6 distritos en 1985 y 10 en 2021; no sorprende encontrar entre ellos a distritos que han gestionado su política ambiental de forma eficiente, adecuando su territorio a cubrir la necesidad de áreas verdes.',
             location: {
@@ -782,7 +782,7 @@ bearing: -30.00
             id: 'Lima Norte',
             alignment: 'left',
             hidden: false,
-            title: 'Lima Norte - Rimac - San Martin de Porres',
+            title: '',
             image: 'https://www.elperuano.pe/fotografia/thumbnail/2022/12/22/000228010M.jpg',
             description: '-	La calificación de “Regular” se ha incrementado en 2021, con 13 distritos de los 30 medidos, siendo el 43% de distritos del área de estudio, aunque no corresponden en superficie de la cuenca.',
            
@@ -816,7 +816,7 @@ bearing: -40.00
             id: 'Lima Oeste',
             alignment: 'right',
             hidden: false,
-            title: ' Bellavista, Callao y Carmen de La Legua-Reynoso',
+            title: ' ',
             image: 'https://portalportuario.cl/wp-content/uploads/2020/01/nave-APL-en-dp-world-callao-peru-400x300.png',
            
             description: 'La calificación de “Malo” se observa en 4 distritos en 2021 frente a los 9 de 1985. La zona centro de Lima permanece en la lista tanto en 1985 como en 2021. En la calificación de “muy malo” se mantiene el número de distritos ente 3 y 4, alguno de ellos ha pasado de ser “Malo” a “Muy malo” es el caso de Carmen de la Legua Reynoso, podría deberse al factor de suelo construido, y poca distribución en su infraestructura urbana a áreas verdes.',
@@ -848,7 +848,7 @@ bearing: -40.00
             id: 'Lima Sur',
             alignment: 'left',
             hidden: false,
-            title: 'La Victoria, Lince, Jesús María, Breña, Pueblo Libre, San Miguel, San Isidro y Miraflores',
+            title: '',
             image: 'https://viajerosocultos.com/wp-content/uploads/2023/01/beautiful-pacific-ocean-coast-in-lima-miraflores-area-in-lima-city-peru-1.jpg',
             description: 'Por tanto, la tendencia de la calidad ambiental urbana de Lima emplazada en la Cuenca Baja del Rímac, en el periodo de 1985 a 2021 en función a los datos obtenidos muestra mejoría en su Calidad Ambiental Urbana en rasgos generales, ',
             location: {
